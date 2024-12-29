@@ -3,10 +3,10 @@
 Hello there! I'm Priyank Garala, a passionate developer with a diverse skill set. Here's a quick overview of what you'll find in my repositories:
 
 ## Technologies I Love ❤️
-- **HTML5**: Crafting the structure of the web.
-- **CSS3**: Styling things up and making them visually appealing.
-- **JavaScript**: Bringing interactivity and dynamism to the front-end.
-- **C++**: Building robust and efficient applications.
+**React.js
+Node.js
+MySQL
+MongoDB**
 
 ## Frameworks I Work With 🛠️
 - **Node.js**: Leveraging JavaScript on the server side.
