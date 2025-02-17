@@ -1,24 +1,45 @@
-# Welcome to My GitHub Profile! 👋
+Here's a well-structured GitHub profile overview for you:
 
-Hello there! I'm Priyank Garala, a passionate developer with a diverse skill set. Here's a quick overview of what you'll find in my repositories:
+---
 
-## Technologies I Love ❤️
-**React.js
-Node.js
-MySQL
-MongoDB**
+ Hi there! 👋 I'm Priyank Garala
 
-## Frameworks I Work With 🛠️
-- **Node.js**: Leveraging JavaScript on the server side.
-- **Express.js**: Creating scalable and efficient web applications.
+🚀   Full Stack Developer   | Passionate about building scalable applications and solving complex problems with technology.
 
-## Programming Strength 💻
-- **Data Structures**: Crafting the backbone of efficient algorithms.
-- **Algorithms**: Solving problems and optimizing solutions.
+ 🔹 About Me
+- 🎓   B.Tech in Computer Science   (2022 - 2026) from   CHARUSAT, Gujarat    
+- 🏆   4th Rank in Hack Fusion 2024    
+- 🏅 Participated in the   DSAI Hackathon   by IIT Bhilai  
+- 🧠 Solved   200+ problems   on LeetCode & GeeksforGeeks  
 
-## What You'll Find in My Repositories 📚
-I love to collaborate and contribute to exciting projects. You'll find a mix of web development, algorithm implementations, and perhaps some Java magic in my repositories. Feel free to explore, contribute, or provide feedback.
+ 🛠 Tech Stack
+-   Frontend:   React.js, Next.js  
+-   Backend:   Node.js, Express.js  
+-   Database:   MongoDB, MySQL  
+-   Other:   DSA, Machine Learning, APIs  
 
-## Get in Touch 📬
-I'm always open to interesting conversations, collaborations, or just geeking out over technology. Feel free to reach out through GitHub or connect with me on LinkedIn.
+ 🌟 Projects
+ 🔹 [Plant Disease Detection System](https://github.com/priyankgarala/PLANT-DISEASE-DETECTION)
+- Used   Kaggle dataset   for image classification  
+- Optimized a   CNN model   for disease detection  
+- Generated insightful visualizations for analysis  
 
+ 🔹 [Resume Text Extractor](https://github.com/priyankgarala/Resume-Text-Extractor)
+- Built a   file upload system   using FormData API  
+- Implemented   secure parsing   and storage of extracted text  
+- Handled   asynchronous processing   for efficiency  
+
+ 🔹 [Image Text Extractor](https://github.com/priyankgarala/Image-Text-Extractor)
+- Used   Tesseract.js   for automated text extraction  
+- Enabled   Word/PDF downloads   of extracted text  
+- Integrated   CORS   for smooth client-server interaction  
+
+ 📫 Connect with Me!
+- 📧 Email: [priyankgarala123@gmail.com](mailto:priyankgarala123@gmail.com)  
+- 🔗 LinkedIn: [Priyank Garala](https://www.linkedin.com/in/priyank-garala-065ba4250)  
+- 💻 GitHub: [priyankgarala](https://github.com/priyankgarala)  
+- 🏆 LeetCode: [priyank18](https://leetcode.com/u/priyank18/)  
+
+---
+
+You can add this to your   GitHub profile README   for a great first impression! 🚀 Let me know if you want any modifications. 😊
