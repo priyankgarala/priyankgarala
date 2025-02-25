@@ -1,8 +1,4 @@
-Here's a well-structured GitHub profile overview for you:
-
----
-
- Hi there! 👋 I'm Priyank Garala
+Hi there! 👋 I'm Priyank Garala
 
 🚀   Full Stack Developer   | Passionate about building scalable applications and solving complex problems with technology.
 
