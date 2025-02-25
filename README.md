@@ -4,13 +4,13 @@ Hi there! 👋 I'm Priyank Garala
 
  🔹 About Me
 - 🎓   B.Tech in Computer Science   (2022 - 2026) from   CHARUSAT, Gujarat    
-- 🏆   4th Rank in Hack Fusion 2024    
+- 🏆   4th Rank in Hack Fusion 2024 Hackathon  
 - 🏅 Participated in the   DSAI Hackathon   by IIT Bhilai  
 - 🧠 Solved   200+ problems   on LeetCode & GeeksforGeeks  
 
  🛠 Tech Stack
 -   Frontend:   React.js, Next.js  
--   Backend:   Node.js, Express.js  
+-   Backend:   Node.js, Express.js, OpenGraph  
 -   Database:   MongoDB, MySQL  
 -   Other:   DSA, Machine Learning, APIs  
 
@@ -35,7 +35,3 @@ Hi there! 👋 I'm Priyank Garala
 - 🔗 LinkedIn: [Priyank Garala](https://www.linkedin.com/in/priyank-garala-065ba4250)  
 - 💻 GitHub: [priyankgarala](https://github.com/priyankgarala)  
 - 🏆 LeetCode: [priyank18](https://leetcode.com/u/priyank18/)  
-
----
-
-You can add this to your   GitHub profile README   for a great first impression! 🚀 Let me know if you want any modifications. 😊
