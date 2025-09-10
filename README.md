@@ -6,7 +6,7 @@ Hi there! 👋 I'm Priyank Garala
 - 🎓   B.Tech in Computer Science   (2022 - 2026) from   CHARUSAT, Gujarat    
 - 🏆   4th Rank in Hack Fusion 2024 Hackathon  
 - 🏅 Participated in the   DSAI Hackathon   by IIT Bhilai  
-- 🧠 Solved   200+ problems   on LeetCode & GeeksforGeeks  
+- 🧠 Solved   250+ problems on LeetCode  
 
  🛠 Tech Stack
 -   Frontend:   React.js, Next.js  
