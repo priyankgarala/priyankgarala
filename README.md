@@ -57,8 +57,8 @@ I'm a **Computer Science Engineering student (2022–2026)** at **Charotar Unive
 ### 🏆 Competitive Programming
 
 - 🧠 LeetCode: **Top 14%**, Max Rating **1684** (300+ problems solved)  
-- 💪 Codeforces: **Pupil**, Max Rating **1204**  
-- 🍴 CodeChef: **2★**, Max Rating **1530**
+- 💪 Codeforces: **Pupil**  
+- 🍴 CodeChef: **2★**
 
 ---
 
