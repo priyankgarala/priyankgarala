@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyank Garala</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyankgarala&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -9,40 +9,52 @@
 ---
 
 ### 👨‍🎓 About Me
-I'm a **Computer Science Engineering student (2022–2026)** at **Charotar University of Science and Technology**, passionate about building modern, scalable apps using the **MERN Stack** and exploring the power of **AI & Machine Learning**.
+I'm a **Computer Science Engineering student (2022–2026)** at **Charotar University of Science and Technology (CGPA: 7.16)**.
 
-💡 I love turning ideas into real-world projects that make an impact.  
-📚 I’m constantly learning and improving through hands-on problem solving.  
-💬 Ask me about **React, Node.js, MongoDB, Machine Learning, and Next.js**.
+💡 Passionate about building **scalable full-stack applications** and solving real-world problems  
+⚡ Strong focus on **performance optimization, backend systems, and clean architecture**  
+📚 Experienced in **MERN Stack, REST APIs, and Machine Learning (NLP)**  
 
 ---
 
 ### 💼 Experience
 
-#### 📰 Software Engineer Intern — [Namnews](https://namnews.in) (Jan 2025 – Apr 2025)
-- Developed a **regional news web app** using the MERN stack with an admin panel managing 500+ articles  
-- Implemented **Open Graph meta tags**, boosting social media engagement by 40%  
-- Added **OTP-based authentication** for secure password reset  
-- Built **dynamic filtering** by category, date, and region for better content discovery
+#### 📰 Software Engineer Intern — Namnews (Jan 2025 – Apr 2025)
+- Optimized MongoDB queries using **compound indexing**, reducing API latency from **700ms → 250ms (65% improvement)**  
+- Built **15+ REST APIs** using **Node.js & Next.js** for publishing workflows and RBAC systems  
+- Implemented **cursor-based pagination**, handling **10K+ records efficiently**  
+- Developed **RBAC middleware & transactional logic**, preventing race conditions  
 
-#### 🤖 Machine Learning Intern — KnC Future Tech Pvt. Ltd. (May 2025 – Jun 2025)
-- Built an **AI-powered resume screening system** using NLP, reducing screening time by 70%  
-- Designed **text preprocessing & feature extraction pipelines** for candidate-job matching  
-- Achieved **85% accuracy** in skill matching using **scikit-learn** and **NLTK**
+---
+
+#### 💻 Software Development Intern — Agevole Innovation (Dec 2025 – Present)
+- Optimized MongoDB aggregation pipelines (**1.2s → 400ms**)  
+- Built **secure JWT authentication + refresh token system**  
+- Designed **modular React architecture** with reusable hooks (20+ components)  
+- Implemented **centralized validation & error handling middleware**  
 
 ---
 
 ### 🧩 Featured Projects
 
-#### 🎓 [College ERP](https://github.com/priyankgarala/CollegeErp)
-- A MERN-based platform to manage attendance, marks, and departments efficiently  
-- Includes **admin dashboards** with user management and attendance reset  
-- RESTful APIs ensuring smooth CRUD operations and real-time updates  
+#### ⚡ Multi Node Download System
+- Built a **multi-threaded file downloader** using **Python sockets**  
+- Implemented **parallel chunk downloading & fault-tolerant load balancing**  
+- Applied **networking + concurrency concepts** for high performance  
 
-#### 🛒 [E-commerce Platform](https://github.com/priyankgarala/Ecommerce)
-- A complete e-commerce solution with **admin panel**, **cart**, and **order management**  
-- Features **role-based access control**, **authentication**, and **responsive design**  
-- Includes **search**, **category filters**, and **order tracking system**
+---
+
+#### 🎓 College ERP System
+- Developed a **full-stack ERP platform** with **RBAC authentication**  
+- Built scalable backend using **Node.js & Express (REST APIs)**  
+- Managed complex **student-faculty workflows & data relationships**  
+
+---
+
+#### 🤖 Smart AI Resume Analyzer
+- Built an **NLP-based resume parser** using **spaCy & NLTK**  
+- Implemented **cosine similarity for job matching**  
+- Created **Streamlit dashboard** for skill insights & recommendations  
 
 ---
 
@@ -52,13 +64,20 @@ I'm a **Computer Science Engineering student (2022–2026)** at **Charotar Unive
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,git,github,vercel,tailwind" />
 </p>
 
+**Languages:** JavaScript, Java, SQL  
+**Frontend:** React.js, Next.js  
+**Backend:** Node.js, Express.js, REST APIs, JWT  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Core:** DSA, OOP, DBMS, OS  
+**Tools:** Git, GitHub, Postman, Axios, Vercel  
+
 ---
 
-### 🏆 Competitive Programming
+### 🏆 Achievements
 
-- 🧠 LeetCode: **Top 14%**, Max Rating **1684** (300+ problems solved)  
-- 💪 Codeforces: **Pupil**  
-- 🍴 CodeChef: **2★**
+- 🧠 **LeetCode:** Top 14%, Max Rating **1684**, 400+ problems solved  
+- 💪 **Codeforces:** Pupil (Max Rating: 1290)  
+- 🍴 **CodeChef:** 2★ (Max Rating: 1530)  
 
 ---
 
@@ -85,8 +104,4 @@ I'm a **Computer Science Engineering student (2022–2026)** at **Charotar Unive
 
 ---
 
-<h3 align="center">⭐ "Code. Build. Learn. Repeat." ⭐</h3>
-
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/demo-profile/assets/typing.svg" width="0" height="0" />
-</p>
+<h3 align="center">⭐ "Optimize. Build. Scale. Repeat." ⭐</h3>
