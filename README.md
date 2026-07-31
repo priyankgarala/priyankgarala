@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍🎓 About Me
-I'm a **Computer Science Engineering student (2022–2026)** at **Charotar University of Science and Technology (CGPA: 7.16)**.
+I'm a **Computer Science Engineering student (2022–2026)** at **Charotar University of Science and Technology (CGPA: 7.41)**.
 
 💡 Passionate about building **scalable full-stack applications** and solving real-world problems  
 ⚡ Strong focus on **performance optimization, backend systems, and clean architecture**  
